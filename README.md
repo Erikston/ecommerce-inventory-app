@@ -40,3 +40,40 @@ ecommerce_inventory_app/
 ---
 
 
+1. **Clone the repository**
+
+git clone https://github.com/Erikston/ecommerce-inventory-app.git
+cd ecommerce-inventory-app
+
+
+2. **Create and activate a virtual environment (optional but recommended)**
+
+python -m venv venv
+venv\Scripts\activate # Windows
+
+
+3. **Install dependencies**
+
+pip install -r requirements.txt
+
+
+4. **Create the MySQL database**
+
+- Create an empty database in MySQL, for example `ecommerce_inventory`.
+- Run the SQL script:
+
+
+5. **Update config**
+
+- Open `config.py` and set your MySQL host, user, password, and database name.
+
+6. **Run the app**
+   
+  streamlit run app.py
+
+- Open the URL shown in the terminal (usually `http://localhost:8501`).
+
+---
+
+
+
