@@ -14,7 +14,17 @@ Streamlit dashboard for managing e‑commerce products, daily sales, inventory s
 - Built as a portfolio project to demonstrate end‑to‑end data handling: SQL schema + Python + Streamlit UI.
 
 ---
+## Uses of This Project
 
+This project simulates how a small e‑commerce business could manage inventory using data instead of spreadsheets.
+
+- Manage products, daily sales, and inventory snapshots in a structured MySQL database.
+- Use the Streamlit app to enter data and view current stock, sales trends, and key inventory metrics.
+- Apply inventory analytics such as ABC classification, days of supply, and reorder point logic.
+- Help a non‑technical operations or supply‑chain manager decide **what to reorder and when**.
+- Showcase end‑to‑end skills for data analyst / data engineer roles: SQL, Python, dashboarding, and business‑oriented design.
+  
+---
 ## Tech Stack
 
 - **Frontend / App**: Streamlit  
