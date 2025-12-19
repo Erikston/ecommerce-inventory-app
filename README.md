@@ -74,6 +74,13 @@ pip install -r requirements.txt
 - Open the URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
+---
+
+## Contact
+
+If you’d like to discuss this project or opportunities:
+
+- Email: rahulbabubu3@gmail.com
 
 
 
